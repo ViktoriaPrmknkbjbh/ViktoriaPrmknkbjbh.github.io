@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(270deg, #e60050 0%, #2c020f 95%);
+}                                                               .nav-link{
+    color: #ff3e7ece;
+}
+.navbar-nav .nav-link.active{
+    color: #7c7676ce;
+  
+}
+.navbar-brand img {
+    width: 45px;
+
+}
+.navbar-toggler{
+    background-color: #7c7676ce;
+}
+.center{
+    text-align: center;
+}
+.fon{background: linear-gradient(90deg, #e60050 0%, #2c020f 95%);
+
+}
+p {
+  color: aliceblue;
+}
+.t{
+    color: aliceblue;
+    
+}
+.img{
+    width: 50px; ;
+}
+.font-family{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.car{width: 90%;
+   }
+.sidebar{background: linear-gradient(90deg, #6d030d 0%, #2c020f 95%);
+text-align: center;
+   }
+   .art{
+    width: 300px;
+   }
+   .rt{
+    width: 900px;
+    height:500px;
+   }
+   .r{ width: 400px;
+    height:500px;
+
+   }
+   .cv{
+    background: linear-gradient(90deg, #b80242 0%, #2c020f 95%);
+   }
+   .her{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+
+   
